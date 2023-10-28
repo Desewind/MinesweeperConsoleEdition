@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Border">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAASAAAAABAEAYAAIAAAEQCAAgQAgAAAAAIAA=</HashCode>
+      <FileName>border.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mine">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAACAAAAAAYAAAAAAAAAAAAAAAAAAAACAgAAAAAAg=</HashCode>
+      <FileName>mine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
