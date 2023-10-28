@@ -7,6 +7,6 @@
 
 #### 使用说明
 
-1.  请用 Visual Studio 2022 打开
+1.  请用 Visual Studio 2022 打开Minesweeper Desewind Edition(Console).sln文件以查看代码
 
 
